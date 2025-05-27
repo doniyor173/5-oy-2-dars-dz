@@ -65,10 +65,6 @@ style.textContent = `
     font-weight: 600;
     transition: background-color 0.3s;
   }
-
-  .link-button:hover {
-    background-color: #444;
-  }
 `;
 document.head.appendChild(style);
 
